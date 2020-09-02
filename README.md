@@ -19,6 +19,8 @@
 
 [linkname ex:google](link address)
 
+[Markdown CheetSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [instagram](https://www.instagram.com/?hl=en)
 
 - unordered list
