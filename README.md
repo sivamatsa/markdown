@@ -1,51 +1,22 @@
-[APSSDC_classes ](https://github.com/AP-Skill-Development-Corporation)
-
-# samplerepo
-
-# largest heading
-###### smallest heading
-
-####### normal text
-
-<h3>we can use html tags</h3>
-
-**Bold**
-
-*italic*
-
-***bold and italic***
-
-![forimage](imageurl
-
-![lord shiva](https://upload.wikimedia.org/wikipedia/commons/b/b4/Murudeshwar_Shiva.jpg)
-
-[linkname ex:google](link address)
-
-[Markdown CheetSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[instagram](https://www.instagram.com/?hl=en)
-
-- unordered list
-- apple
-  - smartphone
-  - smartwatch
-- samsung
-- xiomi
-
-1. orderes list
-2. laptop
-3. desktop
-
-```python
-def sum(a,b):
-  print(a+b)
-sum(2,3)
-```
+# 💫 About Me:
+SAP OpenText VIM Consultant 
 
 
-Name | Roll Number
-----|-----------
-siva|503
-varun|504
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/may_be_siva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivamatsa) 
 
-> This is comment 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sivamatsa&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sivamatsa&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sivamatsa&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sivamatsa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=sivamatsa&icon=2&color=7)](https://visitcount.itsvg.in)
