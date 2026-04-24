@@ -19,4 +19,4 @@ SAP OpenText VIM Consultant
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sivamatsa&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sivamatsa&icon=2)](https://visitcount.itsvg.in)
